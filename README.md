@@ -36,7 +36,7 @@ The noinoi bot is the one of the powerdyll and superfast group management bot on
 
 #### ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ 💜
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/testosmani/mss)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jaabirosman/Mss-rosan)
 
 
 #### sᴜᴘᴘᴏʀᴛ & ᴜᴘᴅᴀᴛᴇs ✳️
