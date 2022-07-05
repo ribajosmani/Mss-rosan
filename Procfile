@@ -1,1 +1,1 @@
-worker: python3 -m NoinoiRobot
+worker: python3 -m Mss-rosan
